@@ -1,0 +1,5 @@
+name,department,role,salary,bonus,
+raju,IT,Manager,75000,0.10
+paul,HR,Executive,60000,0.10
+krishna,Finance,Analyst,70000,0.20
+alice,intern,Developer,65000,0.10
